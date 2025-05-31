@@ -1,0 +1,21 @@
+# ninja log v6
+1	18	1748700238530010934	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b6268efefc1a0efb
+1	18	1748700238530010934	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b6268efefc1a0efb
+18	4573	1748700243084677908	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e4b2005a95ec23ca
+18	4573	1748700243084677908	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e4b2005a95ec23ca
+4574	4606	1748700243085536613	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c8a86896e78c6f37
+4574	4606	1748700243085536613	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c8a86896e78c6f37
+4628	4640	1748700243151381629	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	eb18b009e3c0b4be
+4628	4640	1748700243151381629	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	eb18b009e3c0b4be
+4640	4651	1748700243162691498	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8d94eb79652e384e
+4640	4651	1748700243162691498	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8d94eb79652e384e
+4651	4661	1748700243173001247	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	74fbd9f67d4f8634
+4651	4661	1748700243173001247	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	74fbd9f67d4f8634
+4661	4671	1748700243182703081	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1c11b5f4c34decbe
+4661	4671	1748700243182703081	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1c11b5f4c34decbe
+4671	4681	1748700243192148375	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f9f22e3155e333cd
+4671	4681	1748700243192148375	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f9f22e3155e333cd
+4681	4694	1748700243205190487	CMakeFiles/googletest-populate-complete	64b411e4a6384a50
+4681	4694	1748700243205190487	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	64b411e4a6384a50
+4681	4694	1748700243205190487	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	64b411e4a6384a50
+4681	4694	1748700243205190487	/Users/kemache/Documents/GitHub/CPP-Trading-Matching-Engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	64b411e4a6384a50

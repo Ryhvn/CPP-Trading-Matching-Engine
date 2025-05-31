@@ -1,0 +1,4 @@
+timestamp,order_id,instrument,side,type,quantity,price,action,status,executed_quantity,execution_price,counterparty_id
+1617278400000000000,1,AAPL,BUY,LIMIT,100,150.25,NEW,PENDING,0,0.0,0
+1617278400000001000,2,AAPL,SELL,LIMIT,0,150.25,NEW,EXECUTED,50,150.25,1
+1617278400000002000,3,GOOG,BUY,MARKET,10,0.0,NEW,PENDING,0,0.0,0

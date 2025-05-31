@@ -1,0 +1,3 @@
+timestamp,order_id,instrument,side,type,quantity,price,action,status,executed_quantity,execution_price,counterparty_id
+4,4,DDD,SELL,LIMIT,2,30,CANCEL,CANCELED,0,0,0
+5,5,EEE,BUY,LIMIT,3,40,NEW,REJECTED,0,0,0
