@@ -29,7 +29,7 @@ Ce moteur prend en charge :
 
 ---
 
-## 📖 Vue d’ensemble
+## I - Vue d’ensemble
 
 Ce projet fournit une chaîne de traitement complète pour un flux d’ordres financiers :
 
@@ -44,7 +44,7 @@ Ce projet fournit une chaîne de traitement complète pour un flux d’ordres fi
 
 ---
 
-## 🏛️ Architecture & Modules
+## II - Architecture & Modules
 
 Projet/
 ├─ bench/
@@ -82,7 +82,7 @@ Projet/
 
 ---
 
-## 🔍 Détail des composants
+## III - Détail des composants
 
 ### CsvParser
 - **But** : lire un CSV d’ordres, sauter l’en-tête, découper chaque ligne, valider tous les champs.
@@ -133,7 +133,7 @@ Projet/
 
 ---
 
-## Exécution des tests unitaires
+## IV - Exécution des tests unitaires
 
 1. **Configurer, compiler et tester**
    ```bash
@@ -156,7 +156,7 @@ Projet/
 - **MatchingEngine** : orchestration `NEW`/`MODIFY`/`CANCEL`, conversion en `MatchResult`
 - **Test de throughput unitaire** (`test_Performance.cpp`) : insertion de N ordres et mesure du temps CPU
 
-## 🚀 Bench de performance
+## V - Bench de performance
 
 Pour mesurer le débit pur du moteur (insertion + matching):
 
