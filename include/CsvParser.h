@@ -5,6 +5,7 @@
 #include <vector>
 #include <fstream>
 #include <stdexcept>
+#include <optional>
 
 namespace me {
 
