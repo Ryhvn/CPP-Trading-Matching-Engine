@@ -3,6 +3,7 @@
 #include "CsvWriter.h"
 #include <iostream>
 #include <filesystem>
+#include <optional>
 
 namespace fs = std::filesystem;
 
