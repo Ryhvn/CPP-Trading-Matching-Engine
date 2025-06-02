@@ -5,6 +5,7 @@
 #include <vector>
 #include <stdexcept>
 #include <utility>    // std::move
+#include <optional>
 
 
 namespace me {
